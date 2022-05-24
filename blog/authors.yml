@@ -1,0 +1,17 @@
+TAO:
+  name: TAO
+  title: Fundador
+  url: https://github.com/santiagohernandezs
+  image_url: https://github.com/santiagohernandezs.png
+
+WigglesVz:
+  name: Cristopher Rojas
+  title: Cofundador
+  url: https://github.com/WigglesVz
+  image_url: https://github.com/WigglesVz.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
